@@ -1,0 +1,7 @@
+com\firefighter\web\MemberResource.class
+com\firefighter\Main.class
+com\firefighter\repository\MemberRepository.class
+com\firefighter\model\Member.class
+com\firefighter\model\Status.class
+com\firefighter\model\Rank.class
+com\firefighter\service\MemberService.class
